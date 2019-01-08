@@ -1,9 +1,14 @@
 name: lazypig
-version: 0.0.1
 
-authors:
-  - Retromaniacs <retromaniac@retromaniacs.org>
+version: 0.0.1
 
 crystal: 0.27.0
 
 license: MIT
+
+targets:
+  lazypig:
+    main: src/lazypig.cr
+
+authors:
+  - Retromaniacs <retromaniac@retromaniacs.org>

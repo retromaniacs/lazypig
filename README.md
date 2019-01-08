@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-   <img src="https://user-images.githubusercontent.com/46247003/50851735-4d017f80-1386-11e9-8f76-b2239a0cf795.png" alt="Lazypig" title="Lazypig" width="256px"/>
+   <img src="https://user-images.githubusercontent.com/46247003/50851735-4d017f80-1386-11e9-8f76-b2239a0cf795.png" alt="Lazypig" title="Lazypig" width="320px"/>
   <br>
 </h1>
 <p align="center">  
